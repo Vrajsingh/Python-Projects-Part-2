@@ -1,4 +1,4 @@
-// Beginner Code
+# Beginner Code
 
 import random
 
@@ -31,7 +31,7 @@ for x in range(amount):
     print(password)
 
 
-// Optimized Code
+# Optimized Code
     
 import random
 import string
